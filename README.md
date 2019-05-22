@@ -1,4 +1,5 @@
 # platzimusic
+This app was created following the basic course about Vue.js in Platzi.
 
 ## Project setup
 ```
